@@ -1,7 +1,7 @@
 <!--
-author:   Your Name
+author:   Alex Tumwesigye
 
-email:    your@mail.org
+email:    atumwesigye@gmail.com
 
 version:  0.0.1
 
