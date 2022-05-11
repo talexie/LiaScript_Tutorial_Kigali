@@ -13,7 +13,7 @@ comment:  Full day workshop at eLearning Africa 2022.
 
 -->
 
-# LiaScript Tutorial: eLearning Africa 2022
+# LiaScript Course for HIS Elearning Audiences
 
 ![LiaScript on Nokia](images/nokia.jpeg)
 ## Setup
